@@ -1,0 +1,25 @@
+{
+  "name": "ejs-tmpl-loader",
+  "version": "1.0.0",
+  "description": "ejs loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimhou/ejs-tmpl-loader.git"
+  },
+  "keywords": [
+    "ejs",
+    "webpack",
+    "template",
+    "compile"
+  ],
+  "author": "kimhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimhou/ejs-tmpl-loader/issues"
+  },
+  "homepage": "https://github.com/kimhou/ejs-tmpl-loader#readme"
+}
